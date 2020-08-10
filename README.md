@@ -1,4 +1,4 @@
-# todooooo
+# todo app
 
 A new Flutter application.
 
